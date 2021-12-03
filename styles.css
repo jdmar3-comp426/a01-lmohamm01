@@ -1,0 +1,39 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
+
+h4 {
+    color: fuchsia;
+}
+
+h6 {
+    color: hotpink;
+}
+
+p {
+    color: blueviolet;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h5 {
+    color: grey;
+}
+
+li {
+    color: khaki;
+}
+
+ul {
+    color: lavender;
+}
