@@ -1,13 +1,24 @@
 h1 {
     color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.hover {
+    color: blue;
+}
+
+h2.hover {
     color: red;
 }
 
 h3 {
     color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h4 {
@@ -16,10 +27,12 @@ h4 {
 
 h6 {
     color: hotpink;
+    border-style: hidden;
 }
 
 p {
     color: blueviolet;
+    border-style: double;
 }
 
 body {
@@ -36,4 +49,10 @@ li {
 
 ul {
     color: lavender;
+}
+
+.city {
+    background-color: yellow;
+    height: 200px;
+    width: 50%;
 }
