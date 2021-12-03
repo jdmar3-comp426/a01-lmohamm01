@@ -4,16 +4,8 @@ h1 {
 }
 
 h2 {
-    color: red;
+    color: #b22222;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-h1.hover {
-    color: blue;
-}
-
-h2.hover {
-    color: red;
 }
 
 h3 {
@@ -55,4 +47,12 @@ ul {
     background-color: yellow;
     height: 200px;
     width: 50%;
+}
+
+#C4 {
+    background-color: thistle;
+}
+
+button:hover {
+    color: blueviolet;
 }
